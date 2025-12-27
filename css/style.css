@@ -1,0 +1,14 @@
+.timer {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.field {
+    background-color: rgb(100, 100, 100);
+    text-align: center;
+    padding: 40px 10px;
+    border-radius: 10px;
+    border-radius: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+}
